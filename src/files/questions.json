@@ -3,10 +3,10 @@
     "groupName": "What is Truth?",
     "questions": [
       {
-        "question": "Truth is that which best matches external reality."
+        "question": "A statement is true when it corresponds to reality."
       },
       {
-        "question": "People experience the same reality and only interpret it differently."
+        "question": "We all share the same reality and only interpret it differently."
       },
       {
         "question": "Truth depends on the opinions and beliefs of people."
@@ -15,7 +15,7 @@
         "question": "People create words and define their meaning."
       },
       {
-        "question": "Something is true if everyone agrees to it."
+        "question": "A statement is true if everyone agrees."
       },
       {
         "question": "Strong belief, even without action, can change external reality."
@@ -26,13 +26,13 @@
     "groupName": "How does Belief Work?",
     "questions": [
       {
-        "question": "Some beliefs should not be questioned."
+        "question": "Some beliefs should never be questioned."
       },
       {
-        "question": "Someone can be certain of something yet still be mistaken."
+        "question": "Someone can be certain something is true yet still be mistaken."
       },
       {
-        "question": "It is bad when someone doubts their beliefs."
+        "question": "A test that cannot identify a failure is a valid test."
       },
       {
         "question": "If all members of a society share a belief, they are justified to hold that belief."
@@ -52,10 +52,10 @@
         "question": "Believing something without evidence is admirable."
       },
       {
-        "question": "It is important to know where we came from and what happens after death."
+        "question": "Without an explanation for something, any answer is better than no answer."
       },
       {
-        "question": "Believing something that is false is okay if it gives you comfort."
+        "question": "It is ok to accept something is true because it is comforting."
       },
       {
         "question": "I give all claims the benefit of the doubt when I first encounter them."
@@ -75,7 +75,7 @@
         "question": "I often investigate beliefs that do not match my own."
       },
       {
-        "question": "I am comfortable with saying: I don't know."
+        "question": "I am comfortable with saying: \"I don't know\"."
       },
       {
         "question": "It is beneficial to find out when I am wrong about something."
@@ -84,7 +84,7 @@
         "question": "I will abandon a belief if I discover reliable information that falsifies it."
       },
       {
-        "question": "I look for more information before I accept something as true."
+        "question": "The more unusual the statement, the stronger the evidence needs to be."
       },
       {
         "question": "It is possible that some of my beliefs are not true."
